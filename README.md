@@ -1,2 +1,2 @@
 # JMake
-JMake is a program that I made to automatically build java programs. For it to run though, you'll need to name the .java file to "applet.java". Oh, and you don't need to download anything! JMake downloads everything for you, even the JDK! Also you have to drag it into a folder if you want to use it.
+JMake is a program that I made to automatically build java programs. It's basically make for the Java programming language. For it to run though, the applet that you want to build needs to be named "applet.java" or else JMake won't build it.
